@@ -1,5 +1,4 @@
 ![logo](https://github.com/mudabahi/mudabahi/blob/main/Arif%20ali%20(1).png)
-![logo](https://github.com/mudabahi/mudabahi/blob/main/Arif%20ali%20(1).png)
 <h1 align="center">Hi 👋, I'm Mudasir Ai</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan</h3>
 
@@ -19,7 +18,7 @@
 - 📫 How to reach me **mudasiraly666@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
-<div class="" style="border: 1px solid #000; width: 280px; margin-top: 20px; padding: 20px;">
+<div class="" style="border: 1px solid white; width: 280px; margin-top: 20px; padding: 20px;">
     <h3 align="left" border="" style="color: blue; font-size: 30px;">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/mudasiraly1" target="blank"><img align="center"
@@ -47,7 +46,7 @@
 <h3 align="left" style="color: blue; font-size: 30px;">Languages and Tools:</h3>
 <div class="ali" style="display: inline-block;">
     
-<p align="center" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;">
+<p align="left" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="80" height="80" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -61,7 +60,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="80" height="80" /> </a>
 </p>
-<p align="center" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;"><a
+<p align="left" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;"><a
         href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="80" height="80" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
@@ -72,7 +71,7 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80"
             height="80" /> </a>
 </p>
-<p align="center" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="left" style="border: 1px solid #000; width: 380px; margin-top: 20px; padding: 20px  ;"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="80" height="80" /> </a> <a href="https://firebase.google.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"
