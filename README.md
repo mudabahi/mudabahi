@@ -1,6 +1,6 @@
 ![logo](https://github.com/mudabahi/mudabahi/blob/main/Arif%20ali%20(1).png)
 <h1 align="center">Hi 👋, I'm Mudasir Ai</h1>
-<h3 align="center">A passionate Full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate back-end developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudabahi&label=Profile%20views&color=0e75b6&style=flat"
         alt="mudabahi" /> </p>
