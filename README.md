@@ -7,7 +7,6 @@ Over the previous 2 years, I've worked on a variety of web initiatives. Using H
 What I can build for you:
 
 🔹 WordPress/Woocommerce website development<br>
-
 🔹 Custom web applications development<br>
 🔹 PSD, XD, Figma to HTML/CSS/Bootstrap<br>
 🔹 Responsive website design and web development<br>
