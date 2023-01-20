@@ -1,4 +1,26 @@
 ![logo](https://github.com/mudabahi/mudabahi/blob/main/Arif%20ali%20(1).png)
+# 💫 About Me:
+If you are looking for a back-end developer to build a simple or a complex website, e-commerce store, or web application designed and developed all from scratch, that needs a custom modern and elegant design, with custom functionalities to fit your requirements, then I'd love to that guy who will get all details from you and turn that into a fully responsive and functional website.
+
+Over the previous 2 years, I've worked on a variety of web initiatives. Using HTML, CSS, PHP, PHP Framework (Laravel), MySQL, and JavaScript, I've worked on a variety of online projects. I've managed a development team and led a project as a team leader. I feel confident in my ability to operate in a group setting. I'd be happy to work with an organization that provides excellent service.
+
+What I can build for you:
+
+🔹 WordPress/Woocommerce website development<br>
+
+🔹 Custom web applications development<br>
+🔹 PSD, XD, Figma to HTML/CSS/Bootstrap<br>
+🔹 Responsive website design and web development<br>
+🔹 Complete CMS development from scratch<br>
+🔹Back-end development
+
+
+
+If you hired me, I make myself always be available for you whenever you have some questions or additional clarifications while developing the project as well after the completion of the job you will get my support to manage or understand the website admin structure.
+
+
+
+Let's start working together today!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pSPGwWpZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudasirmoorkhunic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-ali-a37846233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mudasir-aly) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mudasiraly1) 
