@@ -1,14 +1,15 @@
 
 # 💫 About Me:
-💎 Worked with Fortune 500 companies
-✅ Mobile App Development, Flutter, React Native, Android, iOS
-✅ Web Development, WordPress, Shopify, Laravel, PHP, HTML, CSS, JavaScript
-✅ Machine Learning, Data Science, Python, TensorFlow, Keras, PyTorch, OpenCV
-✅ UI/UX Design, Adobe XD, Figma, Photoshop, Illustrator
-✅ 20+ projects delivered.
-✅ 50+ hours on Upwork
-📈 15.2 million transactions generated for clients
-💎Github: github.com/mudabahi
+💎 Worked with Fortune 500 companies\
+<br>
+✅ Mobile App Development, Flutter, React Native, Android, iOS<br>
+✅ Web Development, WordPress, Shopify, Laravel, PHP, HTML, CSS, JavaScript<br>
+✅ Machine Learning, Data Science, Python, TensorFlow, Keras, PyTorch, OpenCV<br>
+✅ UI/UX Design, Adobe XD, Figma, Photoshop, Illustrator<br>
+✅ 20+ projects delivered.<br>
+✅ 50+ hours on Upwork<br>
+📈 15.2 million transactions generated for clients<br>
+💎Github: github.com/mudabahi<br>
 
 Hi! I'm Mudasir Ali, A Full-Stack Developer, Mobile App Developer, and Machine Learning Engineer with 10 years of experience. With more than 15 ⭐⭐⭐⭐⭐ reviews online and partner distinctions from Google, Facebook, Salesforce, and more I am uniquely qualified to help your business get more leads, leverage the power of AI and ML, and create stunning websites and apps.
 
