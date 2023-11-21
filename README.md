@@ -1,25 +1,23 @@
 
 # 💫 About Me:
-If you are looking for a back-end developer to build a simple or a complex website, e-commerce store, or web application designed and developed all from scratch, that needs a custom modern and elegant design, with custom functionalities to fit your requirements, then I'd love to that guy who will get all details from you and turn that into a fully responsive and functional website.
+💎 Worked with Fortune 500 companies
+✅ Mobile App Development, Flutter, React Native, Android, iOS
+✅ Web Development, WordPress, Shopify, Laravel, PHP, HTML, CSS, JavaScript
+✅ Machine Learning, Data Science, Python, TensorFlow, Keras, PyTorch, OpenCV
+✅ UI/UX Design, Adobe XD, Figma, Photoshop, Illustrator
+✅ 20+ projects delivered.
+✅ 50+ hours on Upwork
+📈 15.2 million transactions generated for clients
+💎Github: github.com/mudabahi
 
-Over the previous 2 years, I've worked on a variety of web initiatives. Using HTML, CSS, PHP, PHP Framework (Laravel), MySQL, and JavaScript, I've worked on a variety of online projects. I've managed a development team and led a project as a team leader. I feel confident in my ability to operate in a group setting. I'd be happy to work with an organization that provides excellent service.
+Hi! I'm Mudasir Ali, A Full-Stack Developer, Mobile App Developer, and Machine Learning Engineer with 10 years of experience. With more than 15 ⭐⭐⭐⭐⭐ reviews online and partner distinctions from Google, Facebook, Salesforce, and more I am uniquely qualified to help your business get more leads, leverage the power of AI and ML, and create stunning websites and apps.
 
-What I can build for you:
+From mobile app development, web development, custom theme designs to e-commerce and custom plugin development, I will help you transform your personal or business concept into a successful website or app on any platform of your choice.
 
-🔹 WordPress/Woocommerce website development<br>
-🔹 Custom web applications development<br>
-🔹 PSD, XD, Figma to HTML/CSS/Bootstrap<br>
-🔹 Responsive website design and web development<br>
-🔹 Complete CMS development from scratch<br>
-🔹Back-end development
+In the last 10 years, I have worked with many Fortune 500 companies and big brands such as Uber, Netflix, Spotify, Airbnb, and Amazon to startups like Zomato and Swiggy. I have completed more than 80 projects for companies from over 25 countries. I have a 100% track record of delivering projects on time. Quality and customer satisfaction are my top priorities.
 
-
-
-If you hired me, I make myself always be available for you whenever you have some questions or additional clarifications while developing the project as well after the completion of the job you will get my support to manage or understand the website admin structure.
-
-
-
-Let's start working together today!
+🙌 If it's a yes, it would definitely be a long-term & profitable partnership for both of us. Let's chat!
+Mobile App Development, Web Development, WordPress, Shopify, Machine Learning, Data Science, Python, Flutter, React Native, Android, iOS, UI/UX Design, Adobe XD, Figma, Photoshop, IllustratorLet's start working together today!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pSPGwWpZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudasirmoorkhunic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-ali-a37846233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mudasir-aly) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mudasiraly1)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mudasiraly666)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Muda-Bahi)
